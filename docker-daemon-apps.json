@@ -1,0 +1,5 @@
+{
+	"data-root":"/var/lib/docker-apps",
+	"live-restore":true,
+	"pidfile": "/var/run/docker-apps.pid"
+}
